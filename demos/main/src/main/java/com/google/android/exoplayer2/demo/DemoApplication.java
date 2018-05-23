@@ -16,6 +16,8 @@
 package com.google.android.exoplayer2.demo;
 
 import android.app.Application;
+
+import com.dabkick.videoplayer.BuildConfig;
 import com.google.android.exoplayer2.offline.DownloadAction.Deserializer;
 import com.google.android.exoplayer2.offline.DownloadManager;
 import com.google.android.exoplayer2.offline.DownloaderConstructorHelper;

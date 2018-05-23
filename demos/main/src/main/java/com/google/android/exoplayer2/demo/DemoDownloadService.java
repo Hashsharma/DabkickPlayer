@@ -16,6 +16,8 @@
 package com.google.android.exoplayer2.demo;
 
 import android.app.Notification;
+
+import com.dabkick.videoplayer.R;
 import com.google.android.exoplayer2.offline.DownloadManager;
 import com.google.android.exoplayer2.offline.DownloadManager.TaskState;
 import com.google.android.exoplayer2.offline.DownloadService;
